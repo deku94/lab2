@@ -1,4 +1,10 @@
-
+.lkd{
+	text-align: center;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 16px;
+	font-family: Arial;
+}
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
